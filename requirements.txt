@@ -5,3 +5,4 @@ feedparser
 python-dotenv
 aiosqlite
 lxml
+apscheduler
