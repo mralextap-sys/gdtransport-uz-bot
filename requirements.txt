@@ -1,0 +1,7 @@
+aiogram
+requests
+beautifulsoup4
+feedparser
+python-dotenv
+aiosqlite
+lxml
