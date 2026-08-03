@@ -1,2 +1,2 @@
 # gdtransport-uz-bot
-Нлвини
+Новини
